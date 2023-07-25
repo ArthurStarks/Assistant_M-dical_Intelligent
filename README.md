@@ -1,42 +1,33 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medicaldiagnosticassistant.streamlit.app)
 
-# :tv: Welcome to the MDxApp page :hospital:
+# Assistant Médical Intelligent 
 
-Here, we want to make the access to a large knowledge in 
-medical diagnosis available to an as broad as possible community of 
-medical professionals and individuals seeking access to a fast medical diagnosis tool.  
+Ici, nous voulons mettre à la disposition d'une communauté aussi large que possible l'accès à une vaste connaissance en matière de diagnostic médical. 
+diagnostic médical à la disposition d'une communauté aussi large que possible de 
+de professionnels de la santé et d'individus cherchant à accéder à un outil de diagnostic médical rapide.  
 
-For this, we have developed the **MDxApp** that's using **ChatGPT** 
-(a chatbot recently developed by Open AI) as a proxy to assist you in proposing 
-a quick diagnostic according to a patient's demographics, a recent environmental context, 
-a list of symptoms, recent and relevant observations on the patient's state, and any existing 
-chronic condition(s) followed by indications on any existing treatment(s). 
+Pour cela, nous avons développé **MDxApp** qui utilise **ChatGPT** 
+(un chatbot récemment développé par Open AI) comme proxy pour vous aider à proposer 
+un diagnostic rapide en fonction des données démographiques du patient, d'un contexte environnemental récent, 
+une liste de symptômes, des observations récentes et pertinentes sur l'état du patient, et toute(s) 
+chronique(s) existante(s) suivie(s) d'indications sur le(s) traitement(s) existant(s). 
 
-Patient's demographics, context, symptoms, observations, chronic conditions added to any relevant information 
-can all be entered in plain text in the app. The medical jargon with known abbreviations is fully supported. 
-More information on a patient may help to propose a more precise medical diagnostic. 
+Les données démographiques du patient, le contexte, les symptômes, les observations, les maladies chroniques et toute autre information pertinente 
+peuvent être saisis en texte clair dans l'application. Le jargon médical et les abréviations connues sont entièrement pris en charge. 
+Plus d'informations sur un patient peuvent aider à proposer un diagnostic médical plus précis. 
 
-The use of the app is straightforward with examples shown to the user for guidance. 
+L'utilisation de l'application est simple et des exemples sont présentés à l'utilisateur pour le guider. 
 
-The time response of the app may vary with the traffic of requests, the speed of your internet connection, and 
-finally the disponibility of the OpenAI API. If this happens, try again later. 
+Le temps de réponse de l'application peut varier en fonction du nombre de requêtes, de la vitesse de votre connexion internet et de la disponibilité de l'OpenAI. 
+de la disponibilité de l'API OpenAI. Si cela se produit, réessayez plus tard. 
 
-For any requests, comments, questions on the app, please use the email form accessible from the contact page in the 
-app, or post them right here in the issues. 
+Pour toute demande, commentaire ou question sur l'application, veuillez utiliser le formulaire de courrier électronique accessible depuis la page de contact de l 
+ou posez-les ici même dans les questions. 
 
-And last, but not the least, we would appreciate that, if you find this app useful, you share it around you by any 
-channel you may prefer. 
+Pour soutenir les développements et les maintenances futures de cette application, vous pouvez m'offrir un café. Cette application utilise le modèle d'intelligence artificielle ChatGPT via l'API officielle d'OpenAI, qui a un coût. Cependant, l'utilisation de cette application est gratuite et le restera pour tous, à condition que vous la souteniez en m'offrant un café (voir le bouton dédié ci-dessous). Je vous remercie sincèrement par avance pour rendre cela possible !
 
-Finally, support the further developments and maintenances of this app by buying me a coffee. This app uses 
-the ChatGPT AI model through the official API of OpenAI which has a cost. Also, this app is free to use and will remain 
-free to use for all if you support it by buying me a coffee (see the dedicated button below). 
+Si vous trouvez cette application utile, pensez à la soutenir en faisant un don.
 
-Thank you very much in advance for making it possible !
+[![Buy me a coffee](My_electronic_wallet_:_+243823495527_or_text_me_:_https://www.linkedin.com/in/arthur-kaza-1a945b1a6/)
 
-## Support the app
-
-If you find this app useful, consider supporting it by making a donation.
-
-<a href="https://www.buymeacoffee.com/geonosislaX"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=geonosislaX&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-Thank you for supporting the development and maintenance of this app!
+Merci de soutenir le développement et la maintenance de cette application !
